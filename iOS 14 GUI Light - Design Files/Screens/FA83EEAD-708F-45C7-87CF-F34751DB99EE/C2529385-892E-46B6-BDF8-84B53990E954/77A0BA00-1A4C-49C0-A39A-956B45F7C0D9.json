@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77A0BA00-1A4C-49C0-A39A-956B45F7C0D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 94
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5E5AD78-95AA-4594-B56F-9D7617F43E4D_stringValue",
+      "value": "The Washington Post"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4F1A8E13-1A23-4FFD-A307-ED51527782A7_stringValue",
+      "value": "10 places · Updated last week"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F6CD9263-811E-48B9-94DB-2A57C7C8427E/398C81BA-E894-45F0-881B-847C577B9EFC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/faf19749a4c9e949b4c0734b79ba42404adf90b4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "38A549EB-4556-4D37-BCC5-8FF28FF904A4/76BB9080-AE35-4366-BA4C-F3BE83675065_symbolID",
+      "value": "8286022B-EC42-459C-8F08-BAF928AA2876"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "15CACA6D-55E7-4A87-9A45-0792904CFC35",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EB689AE3-E7B9-4FA4-8B61-F1F5B95389A7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,148 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F693C4D2-A495-4A72-B865-B88FB4EB0DC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 375,
+    "x": 0,
+    "y": 729
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab Bar",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE5001AD-F22A-4DAE-96AB-0C0847A3B8B3_symbolID",
+      "value": "300F1D45-7EE0-4895-B264-D3EE277CD6CF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE5001AD-F22A-4DAE-96AB-0C0847A3B8B3/6E81703D-E4DD-468E-98EA-99E55E48FEE7_symbolID",
+      "value": "9C094FAF-71A8-4780-844C-CAA9789C849E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4690C93-D7CD-49D6-88E6-DC67B11916D5_symbolID",
+      "value": "D0C9C196-559E-44DC-9FA3-AEE6FE8E36B1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BB58A4D8-F01B-4D55-B2FD-9DFA5FD66BF1/6E81703D-E4DD-468E-98EA-99E55E48FEE7_symbolID",
+      "value": "2D3AD2FE-C945-4CB5-8836-600282A8951D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1CB7DB02-4996-492E-9728-F584E8D133BC/6E81703D-E4DD-468E-98EA-99E55E48FEE7_symbolID",
+      "value": "B28A5DA4-D5BF-49BD-8F40-4BD0E4E9FE43"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CBEE3ED9-E6A6-4AA9-961F-D61E00652D5D/6E81703D-E4DD-468E-98EA-99E55E48FEE7_symbolID",
+      "value": "E840CDE9-1604-4224-8104-ECF9C77F7D4E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4690C93-D7CD-49D6-88E6-DC67B11916D5/657E30D8-29DA-4523-990B-5BA3E7026878_symbolID",
+      "value": "3C9C8F66-864B-41C1-B98D-8E00E243A688"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE5001AD-F22A-4DAE-96AB-0C0847A3B8B3/E62CCC01-E075-4362-8A4F-C0BB922F2512_stringValue",
+      "value": "Today"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BB58A4D8-F01B-4D55-B2FD-9DFA5FD66BF1/E62CCC01-E075-4362-8A4F-C0BB922F2512_stringValue",
+      "value": "Games"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1CB7DB02-4996-492E-9728-F584E8D133BC/E62CCC01-E075-4362-8A4F-C0BB922F2512_stringValue",
+      "value": "Apps"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4690C93-D7CD-49D6-88E6-DC67B11916D5/D6C06582-AD77-45BD-A4E1-D7156458F2F3_stringValue",
+      "value": "Arcade"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CBEE3ED9-E6A6-4AA9-961F-D61E00652D5D/E62CCC01-E075-4362-8A4F-C0BB922F2512_stringValue",
+      "value": "Search"
+    }
+  ],
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "EF416357-E4FF-4C0E-AD3B-8888476E5E01",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "58978997-40E9-4002-9FE8-63C460A507E6",
+  "verticalSpacing": 0
+}

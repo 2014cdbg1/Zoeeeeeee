@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "94FDC7C7-ACA6-4D84-B1D8-9AD345DD2759",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 359,
+    "x": 8,
+    "y": 338
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Instagram",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "59A814B9-EAF3-452F-9748-3AF80347541D_stringValue",
+      "value": "Instagram"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C71451D3-4913-4FA3-B42D-A8222F14E675_stringValue",
+      "value": "1h ago"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "035EBCD8-762B-42F9-8CAC-6020E5CA232A/388341C2-224E-4B97-8AE9-5C4E24317D3A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c5ce3c61f809c5b4325186558b256b4ae970d4ae.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B3F28DD1-F5A1-4DC2-9741-434657B5EAA3_stringValue",
+      "value": "jake99, who you may know is on Instagram. Would you like to follow them?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "40756874-8EA9-410A-92BC-C36A708EBBB6",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "38CC5145-670F-446D-B65A-E753561F7AFA",
+  "verticalSpacing": 0
+}

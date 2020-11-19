@@ -1,0 +1,122 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CE6423E-F101-4DE2-ABBB-BF8750B26D73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 127,
+    "width": 359,
+    "x": 8,
+    "y": 50
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Twitter",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "67DFC0D1-7BB8-4CFC-A11E-0EC736C2ED2D/388341C2-224E-4B97-8AE9-5C4E24317D3A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f50f49a2090e4cfac384397b5a37d321aa3263db.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCED5E11-B91F-47EF-BE8A-F54FB92E5ED1_stringValue",
+      "value": "Twitter"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "10AEEADF-6961-4ECD-AF84-50BBD2FFF53D_stringValue",
+      "value": "Now"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E523A215-D59C-4F9C-A753-B3C91C0AD4C7_stringValue",
+      "value": "Design Files"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1072E973-D290-4B0F-ABF0-647B1E301ECE_stringValue",
+      "value": "20 more notifications"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "29DFDF10-2163-413A-A828-1EDEBEBB24B3_stringValue",
+      "value": "iOS 14 GUI is out now!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "446B8DED-9A05-42F2-A7FC-6B80C813E578",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5D84E20-9AED-41B9-8409-B09BE92D002E",
+  "verticalSpacing": 0
+}

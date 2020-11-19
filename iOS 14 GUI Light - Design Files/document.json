@@ -1,0 +1,1219 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "do_objectID": "AE8878E7-BEBE-430D-BF3E-80A8A27E0258",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5764705882352941,
+          "green": 0.5568627450980392,
+          "red": 0.5568627450980392
+        },
+        "do_objectID": "FAD0D282-2441-4FB4-9D45-287EBC8DA611",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6980392156862745,
+          "green": 0.6823529411764706,
+          "red": 0.6823529411764706
+        },
+        "do_objectID": "99E7B5D3-A8B8-4A90-9987-955139C8C06B",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.7803921568627451,
+          "red": 0.7803921568627451
+        },
+        "do_objectID": "F8DC4C63-049E-46E3-95CF-452C0F93CFB2",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8392156862745098,
+          "green": 0.8196078431372549,
+          "red": 0.8196078431372549
+        },
+        "do_objectID": "75BA6BE6-3BE2-415B-94F0-6938A183CD38",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9176470588235294,
+          "green": 0.8980392156862745,
+          "red": 0.8980392156862745
+        },
+        "do_objectID": "A30C5CA7-6AFB-4CC7-91E8-AA70FAF4297D",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.9490196078431372,
+          "red": 0.9490196078431372
+        },
+        "do_objectID": "137EA292-1E88-4AF1-8B7B-B32585608AEC",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "F7926D97-E2E0-4BD2-BBDE-5242B1DCE16B",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941176471,
+          "green": 0.2313725490196079,
+          "red": 1
+        },
+        "do_objectID": "72F699B4-68A2-4681-96AE-7C3E38CAA94B",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.5843137254901961,
+          "red": 1
+        },
+        "do_objectID": "B2694CA1-87EF-4A6D-9D0E-FD3655D321C4",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.8,
+          "red": 1
+        },
+        "do_objectID": "8EA60F3E-D223-4587-A6F9-776D5914DFA5",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3490196078431372,
+          "green": 0.7803921568627451,
+          "red": 0.203921568627451
+        },
+        "do_objectID": "21343594-F3A5-4CAC-BB7B-97C6A92EF153",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.7843137254901961,
+          "red": 0.3529411764705883
+        },
+        "do_objectID": "7E6DF2B4-F5A7-41FA-93EA-A37BAB292A13",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.4784313725490197,
+          "red": 0
+        },
+        "do_objectID": "83AB5C4C-49A0-462E-AB19-48846E4232E1",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8392156862745098,
+          "green": 0.3372549019607843,
+          "red": 0.3450980392156863
+        },
+        "do_objectID": "9902F5CB-3ADF-4620-B612-06D53858CA04",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3333333333333336,
+          "green": 0.1764705882352942,
+          "red": 1
+        },
+        "do_objectID": "E2C1ED86-7761-42B3-BF6F-54C4695B38B3",
+        "name": ""
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5764705882352941,
+        "green": 0.5568627450980392,
+        "red": 0.5568627450980392
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6980392156862745,
+        "green": 0.6823529411764706,
+        "red": 0.6823529411764706
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.7803921568627451,
+        "red": 0.7803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8392156862745098,
+        "green": 0.8196078431372549,
+        "red": 0.8196078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9176470588235294,
+        "green": 0.8980392156862745,
+        "red": 0.8980392156862745
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9686274509803922,
+        "green": 0.9490196078431372,
+        "red": 0.9490196078431372
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1882352941176471,
+        "green": 0.2313725490196079,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.5843137254901961,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.8,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3490196078431372,
+        "green": 0.7803921568627451,
+        "red": 0.203921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9803921568627451,
+        "green": 0.7843137254901961,
+        "red": 0.3529411764705883
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.4784313725490197,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8392156862745098,
+        "green": 0.3372549019607843,
+        "red": 0.3450980392156863
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3333333333333336,
+        "green": 0.1764705882352942,
+        "red": 1
+      }
+    ],
+    "do_objectID": "E379C05F-3DF4-4D56-862E-CA4E8A68729B",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d08c1da1c88ba69c0bea5c9bc165b7413eec1d1d.png",
+        "_ref_class": "MSImageData"
+      }
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "0EBD3BAC-1B97-46F4-89E0-C1436BC29267",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0720B357-A306-4CE6-A6E8-85040A6F875D",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProRounded-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0F7EFBE2-7970-4CE0-AB75-B8AA6B267AA6",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "14C624EF-8E38-450B-B481-26C4F79108A8",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Light.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProDisplay-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1A04315C-73E0-4588-9ED1-7EE34445765B",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Heavy.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1A249496-1549-4C4D-BF9D-3F880EE856F4",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1B0F698E-B623-4330-95EF-F21E84555105",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Ultralight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Ultralight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "203BCA00-BFF5-44E7-9491-5870711F2EAE",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Regular.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProRounded-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2E3839AA-20B7-4455-89EF-1A6861CDA100",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "360DD0C2-1D4F-4AA7-9AC1-140D68C2283B",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-SemiboldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3C86D62C-A557-4545-B382-2D743A012C19",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "49BE4294-58F0-47F3-9AA3-4422CD4A3930",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Regular.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProDisplay-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4E3EA794-A4CC-4137-BAD7-681089915CCA",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4FF21436-04DF-430E-9C46-91731D431A54",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "57AB95A3-6B1A-42CA-B8B5-FBA82065A86E",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "59F32ECF-49B7-45F8-BD77-6D26207AE37B",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Ultralight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Ultralight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "63D4D134-EA3A-44BD-AACA-00AA418AAA7C",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProRounded-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6BAE6B95-B996-4232-B5C0-0F01B18C9D06",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "72CD0294-66CD-46ED-AEE1-0B824B5C3789",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "763068BB-2FE2-4D5D-907A-6CF810E9F50C",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7BF1EB93-C71D-49AA-89B1-DE2142604753",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Semibold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProDisplay-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7D504294-EB67-4305-8C39-2CF257F85194",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Heavy.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "85A57C51-3F32-4860-AD8A-BCD3097A1E81",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-SemiboldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "90148BF6-9C9A-4533-BD9B-8A51D735D0FE",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-RegularItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-RegularItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "908DF911-A361-4652-94CB-ED771F17717B",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9F69B6A7-021C-4896-AC23-527994FCF721",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A578CB8A-AEAE-4211-A896-58CAC54DC5B3",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A7929059-A007-481C-BE76-393BD14F5037",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-UltralightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-UltralightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AC881783-EC9B-4A36-B8B4-42AC44530AAC",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Semibold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ADE8ABE2-6272-4BF8-973C-6DA16323604B",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Heavy.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B2CCBD1B-54F2-4B64-B7B8-82569AF2A908",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-HeavyItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-HeavyItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B627B5D9-F697-48F0-97C8-364ED4429018",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Regular.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B6DFBE8A-599D-4E54-ADEE-FFACA3FD48A4",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BAEF55CA-F526-4F09-B445-3B166C2DD983",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProDisplay-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BEB6D09E-7D64-4F32-87D5-FA9F94A34C04",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C7F1B1FA-1F16-4FFA-8093-36E05AC79CC0",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C94FF392-F51F-40E4-8474-F927AB2D5133",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-UltralightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-UltralightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D60C5878-7626-4528-9BF3-D2E403606FE1",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Ultralight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Ultralight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DB1A57F5-5D95-4C2F-B5C5-B8CA3DBD7814",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DE590AC8-87E2-4CB7-BB69-2610E04F3D1D",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-HeavyItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-HeavyItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E06F9376-1A8E-4228-8B8C-A307E88B9D78",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Thin.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProDisplay-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EED6CF1F-B16C-4983-A29F-08CE5294D7DD",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-RegularItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-RegularItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F3EB7B98-B806-465D-A8D2-E837B355CE24",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FBD72EDF-2BFA-415A-B00B-A5428051CD5D",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FD86D1AA-04C8-45B1-A1EE-4F0519AE5BFD",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Semibold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProRounded-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FF37B5D2-ABDB-4B1C-8270-F0367D9C3BC2",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Light.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Light"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "21811E82-198C-46F4-89E0-CA416BE3EB0A",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "69.2",
+    "build": 107504,
+    "version": 134
+  },
+  "pages": [
+    "Screens",
+    "UI Kit",
+    "Typography & Styles",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "378D1A82-198C-46F4-89E0-CA416BE3E506",
+    "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "DDFF1993-DDD6-430D-BF3E-80A8A27E0258",
+        "name": "Fill /Black",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "89A7B3F6-4729-4FB4-9D45-287EBC8DA611",
+        "name": "System Gray /Gray 1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5764705882352941,
+          "green": 0.5568627450980392,
+          "red": 0.5568627450980392
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "8BAB2D17-67F6-46E3-95CF-452C0F93CFB2",
+        "name": "System Gray /Gray 2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.7803921568627451,
+          "red": 0.7803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "06CD0A92-588A-415B-94F0-6938A183CD38",
+        "name": "System Gray /Gray 3",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8392156862745098,
+          "green": 0.8196078431372549,
+          "red": 0.8196078431372549
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D07B3DD3-0993-4CC7-91E8-AA70FAF4297D",
+        "name": "System Gray /Gray 4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9176470588235294,
+          "green": 0.8980392156862745,
+          "red": 0.8980392156862745
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6009C3E6-7DE0-4AF1-8B7B-B32585608AEC",
+        "name": "System Gray /Gray 6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.9490196078431372,
+          "red": 0.9490196078431372
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "84E50CE3-8188-4BD2-BBDE-5242B1DCE16B",
+        "name": "Fill/White",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0181F8C0-0BCA-4681-96AE-7C3E38CAA94B",
+        "name": "System Color /Red",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941176471,
+          "green": 0.2313725490196079,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C11E2DD5-E487-4A6D-9D0E-FD3655D321C4",
+        "name": "System Color /Orange",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.5843137254901961,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "FDD16E4A-B14B-4587-A6F9-776D5914DFA5",
+        "name": "System Color /Yellow",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.8,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "524354E0-90CD-4CAC-BB7B-97C6A92EF153",
+        "name": "System Color /Green",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3490196078431372,
+          "green": 0.7803921568627451,
+          "red": 0.203921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0D1A93C0-96CF-41FA-93EA-A37BAB292A13",
+        "name": "System Color /Teal",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.7843137254901961,
+          "red": 0.3529411764705883
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F0DC3D38-2AC8-462E-AB19-48846E4232E1",
+        "name": "System Color /Blue",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.4784313725490197,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "EA7594BF-59B7-4620-B612-06D53858CA04",
+        "name": "System Color /Indigo",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8392156862745098,
+          "green": 0.3372549019607843,
+          "red": 0.3450980392156863
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "91B68CF2-1409-42B3-BF6F-54C4695B38B3",
+        "name": "System Color /Pink",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3333333333333336,
+          "green": 0.1764705882352942,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2CE36183-39C2-451E-8E1B-16418393650D",
+        "name": "System Gray/Gray 5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.9372549019607843,
+          "red": 0.9372549019607843
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1A37CBBC-53CB-4980-AAD9-CC104C856448",
+        "name": "System Color/Purple",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8705882352941177,
+          "green": 0.3215686274509804,
+          "red": 0.6862745098039216
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "6E04F8DE-0218-461E-97C5-D20DC097CD68",
+        "name": "Fill/1 Primary",
+        "value": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.5019607843137255,
+          "green": 0.4705882352941176,
+          "red": 0.4705882352941176
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "58DE35D1-24A3-4389-A7DB-49C338515A25",
+        "name": "Fill/2 Secondary",
+        "value": {
+          "_class": "color",
+          "alpha": 0.16,
+          "blue": 0.5019607843137255,
+          "green": 0.4705882352941176,
+          "red": 0.4705882352941176
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "67F015A6-EC1D-47BF-85E3-07BC71199166",
+        "name": "Fill/3 Tertiary",
+        "value": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0.5019607843137255,
+          "green": 0.4627450980392157,
+          "red": 0.4627450980392157
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "0A2372C8-79BA-491E-9A92-F68FF5CCB19F",
+        "name": "Fill/4 Quarternary",
+        "value": {
+          "_class": "color",
+          "alpha": 0.08,
+          "blue": 0.5019607843137255,
+          "green": 0.4549019607843137,
+          "red": 0.4549019607843137
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "54BB06B4-260E-4AA1-B32D-5318D48125EB",
+        "name": "System Gray/Inactive Gray",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "06A8A84E-E532-466D-9292-D3AA7944F9CC",
+        "name": "Label /1 Primary",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "76439365-7ED1-4A17-98B5-39656A4B0C96",
+        "name": "Label /2 Secondary",
+        "value": {
+          "_class": "color",
+          "alpha": 0.6,
+          "blue": 0.2627450980392157,
+          "green": 0.2352941176470588,
+          "red": 0.2352941176470588
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "04A297D4-5147-40E0-B17B-11832878A697",
+        "name": "Label/3 Tertiary",
+        "value": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.2627450980392157,
+          "green": 0.2352941176470588,
+          "red": 0.2352941176470588
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5E4FA5E0-85F7-46B3-8CA2-8463EF89E3DF",
+        "name": "Label/4 Quarternary",
+        "value": {
+          "_class": "color",
+          "alpha": 0.18,
+          "blue": 0.2627450980392157,
+          "green": 0.2352941176470588,
+          "red": 0.2352941176470588
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "4AD946A2-06CC-41FE-8371-A2CC66FB272C",
+        "name": "Label/White",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "580818B6-3054-4C75-B729-C8AC6083BBBF",
+        "name": "Label/Link",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.4784313725490196,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E887A91E-47A6-40B2-ABEB-8CDB01EE832C",
+        "name": "Fill/Non-Opaque Separator",
+        "value": {
+          "_class": "color",
+          "alpha": 0.29,
+          "blue": 0.2627450980392157,
+          "green": 0.2352941176470588,
+          "red": 0.2352941176470588
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1411EFDB-86C6-4DE3-B965-C385873B5229",
+        "name": "Fill/Opaque",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7843137254901961,
+          "green": 0.7764705882352941,
+          "red": 0.7764705882352941
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "AECA5EDC-FD38-45B6-A582-91B379B4548B",
+        "name": "Label/Error",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941176471,
+          "green": 0.2313725490196079,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B5C58094-1558-456B-A480-00176822ADBE",
+        "name": "Fill/4 Quarternary",
+        "value": {
+          "_class": "color",
+          "alpha": 0.18,
+          "blue": 0.5019607843137255,
+          "green": 0.4549019607843137,
+          "red": 0.4549019607843137
+        }
+      }
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.plant.plantplugin": {
+      "plant_doc_id": "7DB1437A-F50A-4DBB-AD57-D9ADC019E38E"
+    },
+    "com.sonburn.sketchplugins.symbol-swapper": {
+      "deleteMasters": 1,
+      "includeSiblings": 1,
+      "lastLibrary": 0,
+      "renameInstances": 1
+    }
+  }
+}

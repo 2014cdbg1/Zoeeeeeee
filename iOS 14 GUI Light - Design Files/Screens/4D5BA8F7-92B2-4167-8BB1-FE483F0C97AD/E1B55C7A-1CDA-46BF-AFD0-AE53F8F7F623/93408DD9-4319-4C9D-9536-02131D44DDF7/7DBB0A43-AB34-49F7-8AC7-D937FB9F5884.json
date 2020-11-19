@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DBB0A43-AB34-49F7-8AC7-D937FB9F5884",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 318,
+    "x": 57,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D9469CB-0AB1-4D1F-A70D-39A314D69C33/F522F463-DEE5-4C6D-9B91-4DD4E2FEFED9_layerStyle",
+      "value": "86E021E6-25A3-4A2E-8583-3136D0A27EAF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A0D4A16-F80C-499D-8825-002E5CDC18F4_stringValue",
+      "value": "Jodee Furrow"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0E6AF1E9-081D-45BA-8327-864FAE575DF5_stringValue",
+      "value": "15:41"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4BEF4F35-B2F8-498B-8BDE-37294C92184F_stringValue",
+      "value": "Jared's been back from that island for a whole day and he didn't get any toilet…"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "783FEC6D-70FF-4195-86B3-387649912973_stringValue",
+      "value": "Black Friday is coming"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "938A520F-83E5-4BCD-9B07-8580D83AAC3A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76171BAB-DEDB-4624-A8D4-A153AFC9D7F7",
+  "verticalSpacing": 0
+}

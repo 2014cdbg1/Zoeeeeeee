@@ -1,0 +1,122 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B456B9EF-94AA-4642-A35C-46B162DBCD92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 359,
+    "x": 8,
+    "y": 185
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Messagess",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "67DFC0D1-7BB8-4CFC-A11E-0EC736C2ED2D/388341C2-224E-4B97-8AE9-5C4E24317D3A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91391ce292f9dd4ce8bd5a48afb937e86b5dc18a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCED5E11-B91F-47EF-BE8A-F54FB92E5ED1_stringValue",
+      "value": "Messages"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "10AEEADF-6961-4ECD-AF84-50BBD2FFF53D_stringValue",
+      "value": "5 min ago"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E523A215-D59C-4F9C-A753-B3C91C0AD4C7_stringValue",
+      "value": "Freddy Kauschke"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1072E973-D290-4B0F-ABF0-647B1E301ECE_stringValue",
+      "value": "4 more from Freddy "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "29DFDF10-2163-413A-A828-1EDEBEBB24B3_stringValue",
+      "value": "This isn't just about you. It's about what's best for all of us."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C47DF825-447E-4ADA-A073-9A4E1691A751",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5D84E20-9AED-41B9-8409-B09BE92D002E",
+  "verticalSpacing": 0
+}

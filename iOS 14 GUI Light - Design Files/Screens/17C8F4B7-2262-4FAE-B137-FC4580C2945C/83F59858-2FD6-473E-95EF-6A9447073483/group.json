@@ -1,0 +1,120 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "83F59858-2FD6-473E-95EF-6A9447073483",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 363,
+    "width": 375,
+    "x": 0,
+    "y": 124
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "117D2D4E-18C6-4424-AC89-DC89C5486FEF"
+    },
+    {
+      "class": "group",
+      "id": "2E8974C0-2AAC-41E2-8986-09ADEF057E1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85B90227-00AE-47CD-8C44-9ED35DE6F2F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC7E1B9D-32A8-4B37-9010-72E92540ABB0"
+    },
+    {
+      "class": "text",
+      "id": "8E375880-36D7-4284-B3B7-2E6B0BA493DE"
+    },
+    {
+      "class": "text",
+      "id": "6E1D05DD-AB95-41EB-A565-FFDD2F85A27C"
+    },
+    {
+      "class": "text",
+      "id": "368F1BC0-EA9D-44C1-B893-64F49BE81F49"
+    },
+    {
+      "class": "text",
+      "id": "FAF3730A-3516-4880-A97C-048242A1C567"
+    }
+  ],
+  "name": "New Arcade Games",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "0C0F9AB2-64DF-4F02-BBC5-F2A8534639ED",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
